@@ -1,0 +1,10 @@
+E:\smaticapp\SmaticApp\Smatic.Core\bin\Debug\netcoreapp3.1\Smatic.Core.deps.json
+E:\smaticapp\SmaticApp\Smatic.Core\bin\Debug\netcoreapp3.1\Smatic.Core.runtimeconfig.json
+E:\smaticapp\SmaticApp\Smatic.Core\bin\Debug\netcoreapp3.1\Smatic.Core.runtimeconfig.dev.json
+E:\smaticapp\SmaticApp\Smatic.Core\bin\Debug\netcoreapp3.1\Smatic.Core.dll
+E:\smaticapp\SmaticApp\Smatic.Core\bin\Debug\netcoreapp3.1\Smatic.Core.pdb
+E:\smaticapp\SmaticApp\Smatic.Core\obj\Debug\netcoreapp3.1\Smatic.Core.AssemblyInfoInputs.cache
+E:\smaticapp\SmaticApp\Smatic.Core\obj\Debug\netcoreapp3.1\Smatic.Core.AssemblyInfo.cs
+E:\smaticapp\SmaticApp\Smatic.Core\obj\Debug\netcoreapp3.1\Smatic.Core.dll
+E:\smaticapp\SmaticApp\Smatic.Core\obj\Debug\netcoreapp3.1\Smatic.Core.pdb
+E:\smaticapp\SmaticApp\Smatic.Core\obj\Debug\netcoreapp3.1\Smatic.Core.csprojAssemblyReference.cache

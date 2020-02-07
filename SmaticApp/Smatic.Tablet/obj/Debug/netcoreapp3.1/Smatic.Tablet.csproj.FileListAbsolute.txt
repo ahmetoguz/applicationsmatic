@@ -1,0 +1,11 @@
+E:\smaticapp\SmaticApp\Smatic.Tablet\bin\Debug\netcoreapp3.1\Smatic.Tablet.exe
+E:\smaticapp\SmaticApp\Smatic.Tablet\bin\Debug\netcoreapp3.1\Smatic.Tablet.deps.json
+E:\smaticapp\SmaticApp\Smatic.Tablet\bin\Debug\netcoreapp3.1\Smatic.Tablet.runtimeconfig.json
+E:\smaticapp\SmaticApp\Smatic.Tablet\bin\Debug\netcoreapp3.1\Smatic.Tablet.runtimeconfig.dev.json
+E:\smaticapp\SmaticApp\Smatic.Tablet\bin\Debug\netcoreapp3.1\Smatic.Tablet.dll
+E:\smaticapp\SmaticApp\Smatic.Tablet\bin\Debug\netcoreapp3.1\Smatic.Tablet.pdb
+E:\smaticapp\SmaticApp\Smatic.Tablet\obj\Debug\netcoreapp3.1\Smatic.Tablet.csprojAssemblyReference.cache
+E:\smaticapp\SmaticApp\Smatic.Tablet\obj\Debug\netcoreapp3.1\Smatic.Tablet.AssemblyInfoInputs.cache
+E:\smaticapp\SmaticApp\Smatic.Tablet\obj\Debug\netcoreapp3.1\Smatic.Tablet.AssemblyInfo.cs
+E:\smaticapp\SmaticApp\Smatic.Tablet\obj\Debug\netcoreapp3.1\Smatic.Tablet.dll
+E:\smaticapp\SmaticApp\Smatic.Tablet\obj\Debug\netcoreapp3.1\Smatic.Tablet.pdb

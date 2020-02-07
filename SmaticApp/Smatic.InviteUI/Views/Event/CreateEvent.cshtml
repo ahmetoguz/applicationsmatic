@@ -1,0 +1,22 @@
+﻿@model EventModel
+<div class="form-style-5">
+    @using (Html.BeginForm())
+    {
+       
+    <fieldset>
+        <legend><span class="number">1</span>Toplantı Oluştur</legend>
+        @Html.TextBoxFor(t => t.Name, new { placeholder = "Toplantı Konusu", type = "text" })
+
+        @Html.TextAreaFor(t => t.Partipicants, new { placeHolder = "Katılımcılar" })
+
+        <label for="job">Toplantı Odası</label>
+
+        @Html.DropDownList("EventRoomId", Model.RoomList)
+      
+    </fieldset>
+            <input type="submit" value="GÖNDER" />
+       
+    }
+
+</div>
+

@@ -1,0 +1,14 @@
+E:\smaticapp\SmaticApp\Smatic.MicroService.RabbitMQInviteMailSender\bin\Debug\netcoreapp3.1\Smatic.MicroService.RabbitMQInviteMailSender.exe
+E:\smaticapp\SmaticApp\Smatic.MicroService.RabbitMQInviteMailSender\obj\Debug\netcoreapp3.1\Smatic.MicroService.RabbitMQInviteMailSender.AssemblyInfoInputs.cache
+E:\smaticapp\SmaticApp\Smatic.MicroService.RabbitMQInviteMailSender\obj\Debug\netcoreapp3.1\Smatic.MicroService.RabbitMQInviteMailSender.AssemblyInfo.cs
+E:\smaticapp\SmaticApp\Smatic.MicroService.RabbitMQInviteMailSender\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\smaticapp\SmaticApp\Smatic.MicroService.RabbitMQInviteMailSender\obj\Debug\netcoreapp3.1\Smatic.MicroService.RabbitMQInviteMailSender.csproj.CopyComplete
+E:\smaticapp\SmaticApp\Smatic.MicroService.RabbitMQInviteMailSender\bin\Debug\netcoreapp3.1\Smatic.MicroService.RabbitMQInviteMailSender.deps.json
+E:\smaticapp\SmaticApp\Smatic.MicroService.RabbitMQInviteMailSender\bin\Debug\netcoreapp3.1\Smatic.MicroService.RabbitMQInviteMailSender.runtimeconfig.json
+E:\smaticapp\SmaticApp\Smatic.MicroService.RabbitMQInviteMailSender\bin\Debug\netcoreapp3.1\Smatic.MicroService.RabbitMQInviteMailSender.runtimeconfig.dev.json
+E:\smaticapp\SmaticApp\Smatic.MicroService.RabbitMQInviteMailSender\bin\Debug\netcoreapp3.1\Smatic.MicroService.RabbitMQInviteMailSender.dll
+E:\smaticapp\SmaticApp\Smatic.MicroService.RabbitMQInviteMailSender\bin\Debug\netcoreapp3.1\Smatic.MicroService.RabbitMQInviteMailSender.pdb
+E:\smaticapp\SmaticApp\Smatic.MicroService.RabbitMQInviteMailSender\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\smaticapp\SmaticApp\Smatic.MicroService.RabbitMQInviteMailSender\obj\Debug\netcoreapp3.1\Smatic.MicroService.RabbitMQInviteMailSender.dll
+E:\smaticapp\SmaticApp\Smatic.MicroService.RabbitMQInviteMailSender\obj\Debug\netcoreapp3.1\Smatic.MicroService.RabbitMQInviteMailSender.pdb
+E:\smaticapp\SmaticApp\Smatic.MicroService.RabbitMQInviteMailSender\obj\Debug\netcoreapp3.1\Smatic.MicroService.RabbitMQInviteMailSender.csprojAssemblyReference.cache
